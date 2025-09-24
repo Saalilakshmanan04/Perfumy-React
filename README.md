@@ -3,7 +3,7 @@ Perfumy is a responsive perfume showcase application developed with React. The p
 
 🚀 Live Demo
 Explore the deployed version here:
-👉 https://udemy-react-sigma-indol.vercel.app/
+👉 https://perfumy-react-iota-seven.vercel.app/
 
 Key Features
 🧭 Dynamic navigation bar
